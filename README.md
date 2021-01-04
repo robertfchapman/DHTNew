@@ -107,7 +107,7 @@ Note: testing in a freezer is not so good for humidity readings.
 
 ## Interface
 
-To elaborated
+To elaborate
 
 
 ### Constructor
